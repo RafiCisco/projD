@@ -16,14 +16,15 @@
 
 
 
-# Admin team for rp1 to rp3
-rp1/ @RafiCisco/admin
-rp2/ @RafiCisco/admin
-rp3/ @RafiCisco/admin
+# Admin team for rpd1 
+rpd1/ @RafiCisco/admin
 
-# Dev team for rp4 and rp5
-rp4/ @RafiCisco/dev
-rp5/ @RafiCisco/dev
+
+# Dev team for rpd2,rpd3  and rpd4
+rpd2/ @RafiCisco/dev
+rpd3/ @RafiCisco/dev
+rpd4/ @RafiCisco/dev
+
 
 
 # Code owners for a specific directory
